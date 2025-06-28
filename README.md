@@ -2,7 +2,7 @@
 
 **Overwatch Devtools** is a powerful development tool designed to simplify and streamline the debugging process of state management in modern web applications.
 
-Overwatch gives you clear, real-time insights into how your application state is behaving.
+Overwatch gives you clear, real-time insights into how your application state is behaving. It provides state snapshots, action logs, render time metrics, and a component tree showing which components are using state.
 
 ---
 
