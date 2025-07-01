@@ -4,8 +4,8 @@
   "version": "1.0",
   "description": "DevTools panel for Overwatch state management.",
   "icons": {
-    "128": "public/icon.png"
+    "128": "icon.jpeg"
   },
-  "devtools_page": "src/index.html",
+  "devtools_page": "index.html",
   "permissions": []
 }
