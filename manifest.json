@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Watchly - Overwatch DevTools",
+  "version": "1.0",
+  "description": "DevTools panel for Overwatch state management.",
+  "icons": {
+    "128": "public/icon.png"
+  },
+  "devtools_page": "src/index.html",
+  "permissions": []
+}
