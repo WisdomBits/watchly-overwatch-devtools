@@ -1,4 +1,4 @@
-# 🛠️ Overwatch Devtools
+# ✨ Watchly (Overwatch Devtools)
 
 **Overwatch Devtools** is a powerful development tool designed to simplify and streamline the debugging process of state management in modern web applications.
 
