@@ -2,19 +2,34 @@
   "name": "watchly-overwatch-devtools",
   "version": "1.0.0",
   "description": "**Overwatch Devtools** is a powerful development tool designed to simplify and streamline the debugging process of state management in modern web applications.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WisdomBits/watchly-overwatch-devtools.git"
   },
-  "keywords": [],
+  "keywords": [
+    "state",
+    "devtools",
+    "typescript",
+    "chrome-extension"
+  ],
   "author": "Yogesh Yadav",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/WisdomBits/watchly-overwatch-devtools/issues"
   },
-  "homepage": "https://github.com/WisdomBits/watchly-overwatch-devtools#readme"
+  "homepage": "https://github.com/WisdomBits/watchly-overwatch-devtools#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }
