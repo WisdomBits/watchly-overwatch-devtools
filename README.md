@@ -44,13 +44,15 @@ import { OverwatchProvider } from 'overwatch-devtools';
 
 Then open the Overwatch Devtools panel in your app or integrate with browser extensions *(coming soon)*.
 
+<!--
 ---
 
 ## 📸 Screenshots
 
-> _(Add GIFs or images showing the component tree, action log, and render metrics here)_
+<img src="" alt="watchly" width="70%">
 
 ---
+-->
 
 ## 🧑‍💻 Development
 
@@ -62,13 +64,6 @@ cd overwatch-devtools
 npm install
 npm run dev
 ```
-
----
-
-## 📄 License
-
-MIT License.  
-© 2025 [Your Name or Organization]
 
 ---
 
@@ -86,4 +81,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📫 Contact
 
-Have feedback or need support? Reach out via [issues](https://github.com/your-username/overwatch-devtools/issues).
+Have feedback or need support? Reach out via [issues](https://github.com/WisdomBits/watchly-overwatch-devtools/issues).
